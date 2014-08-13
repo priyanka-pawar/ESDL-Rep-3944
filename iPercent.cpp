@@ -2,7 +2,13 @@
 using namespace std;
 
 
-class 
+class hello{
+int a,b,c;
+hello()
+{
+a=b=c=0;
+}
+};
 int main()
 {
 cout<<"HELLO WORLD!!!";
